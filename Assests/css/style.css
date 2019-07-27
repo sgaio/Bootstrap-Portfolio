@@ -1,0 +1,88 @@
+.head_name-color{
+    background:#4aaaa5;
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+
+.links {
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+  
+ 
+}
+
+.bg-img {
+    background-image:url(../images/united-squares-negative.png);
+    padding: 20px;
+}
+
+.whitecontain {
+    background:white;
+}
+
+
+
+.bottom-bio {
+    margin-top: 10px;
+}
+
+
+footer {
+  
+    background: #4aaaa5;
+    padding: 5px;
+    
+}
+
+footer p {
+
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.about-pg {
+    color: #4aaaa5;
+    padding-top: 20px;
+}
+
+/* Contact */
+
+#tealbtn {
+    background: #4aaaa5;
+    margin-bottom: 10px;
+    color: white;
+}
+
+#enter-message-here {
+    height: 150px;
+}
+
+/* Portfolio */
+
+.hang {
+    background-image:url(../images/united-squares-negative.png);
+    height: 275px; 
+    
+}
+
+.caption {
+text-align: center;
+background:#4aaaa5;
+padding: 10px;
+margin-bottom: 15px;
+color:white;
+
+}
+.caption p {
+    margin-bottom: 3px;
+}
+
+.higher {
+    padding: 50px;
+}
